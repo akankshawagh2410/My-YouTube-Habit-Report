@@ -1,5 +1,6 @@
 # The YouTube Habit Report
-This project analyzes **personal YouTube watch history** data exported from **Google Takeout**. Using Python, I performed **data cleaning, exploratory data analysis (EDA), and visualization** to uncover trends in content consumption, binge-watching habits, and channel preferences.
+
+This project analyzes **personal YouTube watch history** data exported from **Google Takeout**. Using Python, I performed **data cleaning, exploratory data analysis (EDA), and visualization** to uncover trends in content consumption, binge-watching habits, and channel preferences. For more details: you can follow my [Blog on Medium](https://medium.com/@akankshawagh/wanna-know-who-you-watched-the-most-on-youtube-c4d7ada6413f).
 
 ## Tech Stack
 - **Python**: Data processing & analysis
