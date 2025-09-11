@@ -24,6 +24,12 @@ It includes:
 4. Extract the ZIP and find `watch-history.json`.  
 5. Place it in your project folder.
 
+## Running the Jupyter Notebook
+```bash
+jupyter notebook analysis_notebook.ipynb    #You can just replace your dataset.  
+```
+
+
 ## Analyses Performed
 | Analysis | Description |
 |----------|-------------|
@@ -35,21 +41,17 @@ It includes:
 | **Binge Transitions** | Counted how often I watched videos back-to-back (<30 minutes apart). |
 | **Keyword Insights** | Extracted top keywords from video titles. |
 
+If you wish to create your own dashboard, follow the steps below.
+
 ## Create environment
 ```bash
 python -m venv venv
-source venv/bin/activate   # macOS/Linux
 venv\Scripts\activate      # Windows
 ```
 
 ## Install requirements (You can refer the one I attached)
 ```bash
 pip install -r requirements.txt
-```
-
-## Running the Jupyter Notebook
-```bash
-jupyter notebook analysis_notebook.ipynb
 ```
 
 
